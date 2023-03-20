@@ -1,0 +1,5 @@
+program prueba_001; { }
+program prueba_002; var variable_001, variable_002 : float; { }
+program prueba_003; { print("accept"); }
+program prueba_004; { print("accept", 555); }
+program prueba_005; { if (2.0 > 1.0) {variable_003 = 44;} else {variable_004 = 88;};}
