@@ -25,6 +25,9 @@ This file tests the second part of the Analysis (Yacc) to make sure that the par
 ### test_yacc.txt
 This text file contains the lines that will be used in the test_yacc.py file, with examples from simple to more complex, following the structure we have in the diagrams for the expressions.
 
+### sly_lex_yacc.txt
+This file contains a lexer and a parser implementation in SLY rather than PLY, it has an test example for the lexer and it uses the same file for testing the parser than the PLY one (test_yacc.txt).
+
 ## Evidence of Accepted Tests
 
 ### Lexical Tests
