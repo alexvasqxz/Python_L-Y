@@ -35,3 +35,7 @@ This file contains a lexer and a parser implementation in SLY rather than PLY, i
 
 ### Syntax Tests
 ![alt text](https://github.com/alexvasqxz/Python_Lex_and_Yacc/blob/main/images/test_yacc_1.png)
+
+
+
+https://docs.google.com/viewer?url=https://github.com/alexvasqxz/Python_Lex_and_Yacc/blob/main/images/Indice_Entrega_SPRINT1.docx.pdf
